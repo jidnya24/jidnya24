@@ -3,7 +3,7 @@
 </h1>
 
 ###  <h3 align="center">🌟 About Me </h3>
-<h4 align="center">Hello World! I am a passionate developer with a deep interest in modern web technologies and a collaborative team player who enjoys working with others to bring ideas to life. </h4>
+<h6 align="center">Hello World! I am a passionate developer with a deep interest in modern web technologies and a collaborative team player who enjoys working with others to bring ideas to life. </h4>
 
 
 
