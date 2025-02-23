@@ -8,8 +8,8 @@
   Hello World! I am a passionate developer with a deep interest in modern web technologies <br>
   and a collaborative team player who enjoys working with others to bring ideas to life.
 </p>
-<br> <br>
-### <h3 align="center">🛠️ Tech Stack </h3>
+<br>
+<h3 align="center">🛠️ Tech Stack </h3>
 
 <p align="center">
   Java, React, SpringBoot, JavaScript, .NET, Node.JS, Selenium, Git, MySQL
