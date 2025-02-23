@@ -11,6 +11,10 @@ Java, React, SpringBoot, JavaScript, .NET, Node.JS, Selenium, Git, MySQL
 ### <h3 align="center">📫 Connect with Me </h3>
   - **Email**: jidnyamahajan2002@gmail.com<br>
   - **LinkedIn**: https://www.linkedin.com/in/jidnya-mahajan-7405491b1/<br>
+
+<p align="center">
+  Thank you for visiting my profile! 😊
+</p>
   
 
 
