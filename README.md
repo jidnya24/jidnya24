@@ -12,8 +12,7 @@
 <h3 align="center">🛠️ Tech Stack </h3>
 
 <p align="center">
-   Java, React, SpringBoot, JavaScript, .NET, 
-  Node.JS, Selenium, Git, MySQL
+   Java, React, SpringBoot, JavaScript, .NET, Node.JS, Selenium, Git, MySQL
 </p>
 <br>
 <h3 align="center">📫 Connect with Me </h3>
